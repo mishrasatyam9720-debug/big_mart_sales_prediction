@@ -1,0 +1,14 @@
+# Big Mart Sales Prediction - Python 3.11
+fastapi==0.115.12
+uvicorn==0.34.2
+pydantic==2.11.3
+
+# Model runtime dependencies
+numpy==1.26.4
+pandas==2.2.3
+scipy==1.15.2
+scikit-learn==1.6.1
+joblib==1.4.2
+
+# API testing (needed only if running test_api.py)
+requests==2.32.3
